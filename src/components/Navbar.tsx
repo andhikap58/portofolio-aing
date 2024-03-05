@@ -1,5 +1,4 @@
-import React, { useState } from "react";
-import { DiVim } from "react-icons/di";
+import  { useState } from "react";
 import { FaBars, FaTimes} from 'react-icons/fa'
 
 

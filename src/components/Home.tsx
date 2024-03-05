@@ -1,4 +1,4 @@
-import React from "react";
+
 import Image1 from '../../public/IMAGE1.png'
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { TypeAnimation } from "react-type-animation";
@@ -8,7 +8,6 @@ import { TypeAnimation } from "react-type-animation";
 const Home = () => {
     return (
         <div 
-        name="home"
         className="h-screen w-full 
         bg-gradient-to-b from-black via-black to bg-gray-800"
     >
